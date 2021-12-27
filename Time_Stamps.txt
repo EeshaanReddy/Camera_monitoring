@@ -1,0 +1,7 @@
+-- SESSION HAS STARTED -- AT -- 12:02:13 --
+ face not detected from -- 12:03:14 -- to -- 12:03:19 --
+ -- A 7 min break has been activated -- AT -- 12:04:46 --
+ -- bathroom break --
+ -- A 20 min break has been activated -- AT -- 12:05:00 --
+ -- going outside --
+ -- A 45 min refreshment break has been activated -- AT -- 12:05:13 --
